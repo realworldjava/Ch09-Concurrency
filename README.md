@@ -1,6 +1,6 @@
 # Chapter 9: Parallelizing Your Application Using Java Concurrency
 
-This repository contains the code from the book for Chapter 9, Parallelizing Your Application Using Java Concurrency. See the [main book page)[https://github.com/realworldjava) for the list of all chapter specific repositories.
+This repository contains the code from the book for Chapter 9, Parallelizing Your Application Using Java Concurrency. See the [main book page](https://github.com/realworldjava) for the list of all chapter specific repositories.
 
 # How this repository is organized
 
